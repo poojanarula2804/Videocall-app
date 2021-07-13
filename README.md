@@ -1,4 +1,4 @@
-# Videocall-app
+# TeamUp Videocall-app
 A Microsoft Teams Clone for group videocall/meetings using Node.js, WebRTC, Socket.io.
 
 ## Link
