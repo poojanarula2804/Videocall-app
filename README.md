@@ -12,7 +12,7 @@ Try it yourself- https://glacial-caverns-10219.herokuapp.com/
 - Share screen with others
 - Make notes during the videocall and save it as a pdf in your device.
 
-## How to run the application on your device?
+## Get Started
 - Run npm ci
 - cd src
 - node app.js
